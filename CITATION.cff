@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and the archived release DOI when using this software."
+title: "Proximal gradient methods with step-size probing for l0-regularized problems: research code"
+type: software
+authors:
+  - family-names: Yin
+    given-names: Hao
+  - family-names: Li
+    given-names: Zishang
+abstract: "Research implementation of proximal gradient algorithms with periodic step-size probing, numerical experiments, and data export."
+keywords:
+  - nonconvex optimization
+  - sparse optimization
+  - proximal gradient methods
+  - step-size probing
